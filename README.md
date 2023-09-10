@@ -24,7 +24,7 @@ program to showcase essential web development skills using HTML, CSS, and JavaSc
 
 1. Clone or download the repository to your local machine.
 
- - [Calculator](https://github.com/yourusername/repository1)
+ - [Calculator](https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Calculator)
 
   
 
@@ -49,7 +49,7 @@ Welcome to the Codsoft Internship Portfolio Application! This web-based portfoli
 
 1. Clone or download the repository to your local machine.
 
-- [Portfolio](https://github.com/yourusername/repository2)
+- [Portfolio](https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Portfolio)
 
 
 Customize the index.html and style.css files with your personal information, projects, and styling preferences.
