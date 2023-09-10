@@ -24,6 +24,10 @@ program to showcase essential web development skills using HTML, CSS, and JavaSc
 
 1. Clone or download the repository to your local machine.
 
+ - [Calculator](https://github.com/yourusername/repository1)
+
+  
+
 # Codsoft Internship Portfolio Application
 
 Welcome to the Codsoft Internship Portfolio Application! This web-based portfolio was developed as part of the Codsoft internship program to showcase web development skills using HTML, CSS, and JavaScript.
@@ -45,11 +49,26 @@ Welcome to the Codsoft Internship Portfolio Application! This web-based portfoli
 
 1. Clone or download the repository to your local machine.
 
+- [Portfolio](https://github.com/yourusername/repository2)
 
-```bash
-git clone https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Calculator 
 
-git clone https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Portfolio
+Customize the index.html and style.css files with your personal information, projects, and styling preferences.
+
+Open the index.html file in your web browser to view and showcase your portfolio.
+
+## Live Demo
+
+You can view a live demo of the portfolio by visiting Codsoft Internship Portfolio.
+
+## Contributing
+
+Contributions are highly encouraged! If you're part of the Codsoft internship program or interested in contributing to this project, please follow these steps:
+
+
+## Acknowledgments
+
+Special thanks to Codsoft for providing this valuable internship opportunity.
+Feel free to customize this README.md to fit the specifics of your Codsoft internship portfolio project and include any additional information, acknowledgments, or instructions as needed.
 
 
 
