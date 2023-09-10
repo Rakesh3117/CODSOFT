@@ -49,7 +49,6 @@ Welcome to the Codsoft Internship Portfolio Application! This web-based portfoli
 ```bash
 git clone https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Calculator 
 
-```bash
 git clone https://github.com/Rakesh3117/CODSOFT/tree/main/Task_1/Portfolio
 
 
